@@ -29,7 +29,7 @@ form {
     width: 60%;
     height: fit-content;
     padding: 2em;
-    font-size: 1.3em;
+    font-size: 120%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -38,6 +38,7 @@ input:not(#submit) {
     height: 25px;
     margin: 0.5em 0 0.5em 0;
     padding: 0.2em;
+    border-radius: 10px;
 }
 
 #submit {
